@@ -1,0 +1,3 @@
+### Setting up some pretrained checkpoints
+
+Put all checkpoints in the `IEU/checkpoints` directory, including `cait_XXS24_224.pth` (https://dl.fbaipublicfiles.com/deit/XXS24_224.pth) (https://dl.fbaipublicfiles.com/deit/XS24_384.pth), `deit_3_small_224_1k.pth` (https://dl.fbaipublicfiles.com/deit/deit_small_patch16_224-cd65a155.pth), `pit_xs_781.pth` (https://drive.google.com/file/d/1F7x2owp7frFJoyojoF80L7yB-DA9jhmi/view?usp=sharing), `SiT_Small_ImageNet_ViT_student.pth` (https://drive.google.com/drive/folders/11lGoNZKcMr6A959Yun_MrSlT3j6h-4YI?usp=share_link), `xcit_tiny_12_p16_224.pth` (https://dl.fbaipublicfiles.com/xcit/xcit_tiny_12_p16_224.pth). 
